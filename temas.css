@@ -7,25 +7,25 @@
     .Tecnologia {
         width: 1400px;
         height: 400px;
-        background-color: aquamarine;
+        background-color: rgb(138, 255, 127);
     }
     
     .biologia {
     width: 1400px;
     height: 400px;
-    background-color: cadetblue;
+    background-color: rgb(95, 110, 160);
     }
     
     .quimica {
     width: 1400px;
     height: 400px;
-    background-color: chartreuse;
+    background-color: rgb(251, 255, 0);
     }
     
     .matematicas {
     width: 1400px;
     height: 400px;
-    background-color: darkslategray;
+    background-color: rgb(79, 47, 47);
     }
     
     .ingles {
